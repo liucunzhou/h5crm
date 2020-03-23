@@ -8,7 +8,7 @@
 				<text class="pointImg"></text>
 			</view>
 		</view>
-		<!-- 测试 -->
+		
 		<!-- 侧栏 -->
 		<view class="columnmian" :style="{transform: 'translateX('+translate+'%)'}">
 			<view class="column">
